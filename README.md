@@ -33,10 +33,11 @@
 ## Input:
 
 ### Output:
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/c1015a76-6f7c-429f-b33c-a69ed3bac13f" />
 
 
-### Name:
-### Register Number:
+### Name:RAKSHITHA K
+### Register Number:212223110039
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
