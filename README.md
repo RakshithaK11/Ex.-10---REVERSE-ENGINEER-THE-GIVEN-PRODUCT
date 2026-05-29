@@ -33,6 +33,7 @@
 
 ## Input:
 
+<img width="403" height="730" alt="image" src="https://github.com/user-attachments/assets/d3e6e7b4-424e-4abf-a27f-c507220eeb84" />
 
 
 ### Output:
