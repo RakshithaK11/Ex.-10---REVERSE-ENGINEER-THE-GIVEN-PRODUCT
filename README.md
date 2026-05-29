@@ -32,11 +32,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![WhatsApp Image 2026-03-16 at 7 32 38 PM](https://github.com/user-attachments/assets/91b7ca55-894a-4916-bb5e-0b99722473cb)
+
 
 
 ### Output:
-<img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/82c0a26a-9474-41cb-ba55-ad9d79cf039a" />
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/9a1f7f54-5cd5-4212-94f6-a22a0516fde4" />
+
 
 
 
